@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Phonebook", "Dictionaries, Lambda and LINQ\1.Phonebook.csproj", "{7289BB1C-384F-4A6F-BDCA-B0057F762648}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.PhonebookUpgrade", "2.PhonebookUpgrade\2.PhonebookUpgrade.csproj", "{C48FF55C-2245-4EF2-9769-0A3FDBF8520E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.AMinerTask", "3.AMinerTask\3.AMinerTask.csproj", "{96419D98-773B-4BBA-AD96-0BC5AC66F659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.FixEmails", "4.FixEmails\4.FixEmails.csproj", "{274F66E4-7E4B-47FA-AF01-CC6F1039C6D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.HandsOfCards", "5.HandsOfCards\5.HandsOfCards.csproj", "{7BF62443-59E8-443B-8E79-F2660C13C469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.UserLogs", "06.UserLogs\6.UserLogs.csproj", "{9EF3DACB-91D0-456F-9C3E-E0562E75D73A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7289BB1C-384F-4A6F-BDCA-B0057F762648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7289BB1C-384F-4A6F-BDCA-B0057F762648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7289BB1C-384F-4A6F-BDCA-B0057F762648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7289BB1C-384F-4A6F-BDCA-B0057F762648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48FF55C-2245-4EF2-9769-0A3FDBF8520E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48FF55C-2245-4EF2-9769-0A3FDBF8520E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48FF55C-2245-4EF2-9769-0A3FDBF8520E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48FF55C-2245-4EF2-9769-0A3FDBF8520E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96419D98-773B-4BBA-AD96-0BC5AC66F659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96419D98-773B-4BBA-AD96-0BC5AC66F659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96419D98-773B-4BBA-AD96-0BC5AC66F659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96419D98-773B-4BBA-AD96-0BC5AC66F659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274F66E4-7E4B-47FA-AF01-CC6F1039C6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274F66E4-7E4B-47FA-AF01-CC6F1039C6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274F66E4-7E4B-47FA-AF01-CC6F1039C6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274F66E4-7E4B-47FA-AF01-CC6F1039C6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF62443-59E8-443B-8E79-F2660C13C469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF62443-59E8-443B-8E79-F2660C13C469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF62443-59E8-443B-8E79-F2660C13C469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF62443-59E8-443B-8E79-F2660C13C469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF3DACB-91D0-456F-9C3E-E0562E75D73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF3DACB-91D0-456F-9C3E-E0562E75D73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF3DACB-91D0-456F-9C3E-E0562E75D73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF3DACB-91D0-456F-9C3E-E0562E75D73A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
